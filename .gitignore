@@ -151,7 +151,7 @@ tfplan.binary
 tfplan.json
 
 # Environment files
-*.tfvars
+# *.tfvars
 terraform.*
 
 # Local files
